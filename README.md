@@ -80,6 +80,10 @@ Hi, My name is Luu Nguyen Hoang Minh, a passionate self-taught Machine Learning 
 <hr>
 
 <h3 align="center">&#x1f4c8; GitHub Stats</h3>
+
+***NOTE: Top Languages does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub. It's a new feature of github-readme-stats.***
+
+<!-- Available ranks are S+ (top 1%), S (top 25%), A++ (top 45%), A+ (top 60%), and B+ (everyone). -->
 <p width="100%" align="center">
   <a href="https://github.com/Minhluu2911/github-readme-stats" title="Go to Source"><img height="125" width="350" align="left" src="https://github-readme-stats.vercel.app/api?username=Minhluu2911&show_icons=true&theme=gotham"></a>
 

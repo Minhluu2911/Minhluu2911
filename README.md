@@ -1,6 +1,6 @@
 ### Hi there, I'm [Robominh!](https://github.com/Minhluu2911) :stuck_out_tongue_winking_eye:
 
-
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Minhluu2911.Minhluu2911">
 
 Hi, My name is Luu Nguyen Hoang Minh, a passionate self-taught Machine Learning developer from Viet Nam.
 

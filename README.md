@@ -52,26 +52,6 @@ Hi, My name is Luu Nguyen Hoang Minh, a passionate self-taught Machine Learning 
 <img align="left" alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 <img alt="IOS" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white">
 
-
-
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github*
-
-
-<a href="https://github.com/Minhluu2911/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Minhluu2911&show_icons=true&include_all_commits=true&theme=material-palenight&count_private=true  " alt="Minhluu2911's github stats" />
-</a>
-<a href="https://github.com/Minhluu2911/github-readme-stats">
-  <!-- Change the `github-readme-stats.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minhluu2911&layout=compact&theme=material-palenight" />
-</a>
-
-<a href="https://github.com/Minhluu2911/github-readme-stats">
-  <!-- Change the `github-readme-stats.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Minhluu2911&repo=github-readme-stats&theme=material-palenight" />
-</a>    
-
-<br/>
-
 ### You can find in me in the web 🌍
 [<img align="left" alt="Facebook" src="https://img.shields.io/badge/Facebook%20-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/>](https://www.facebook.com/minh.luunguyenhoang/)
 

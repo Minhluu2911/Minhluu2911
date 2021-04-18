@@ -27,12 +27,8 @@ Hi, My name is Luu Nguyen Hoang Minh, a passionate self-taught Machine Learning 
 ### Other Languages I used to work
 <img align="left" alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 <img align="left" alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+<img align="left" alt="HASKELL" src="https://img.shields.io/badge/haskell-5C2D91.svg?&style=for-the-badge&logo=haskell&logoColor=white"/>
 <img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white"/>
-
-
-### Other Technologies I wish to learn in the future
-<img align="left" alt="Docker" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
-<img alt="AWS" src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 
 
 ### Framework that I have used
@@ -42,11 +38,16 @@ Hi, My name is Luu Nguyen Hoang Minh, a passionate self-taught Machine Learning 
 <img align="left" alt="Pandas" src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
 <img alt="NumPy" src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" />
 
+
+### Other Technologies I wish to learn in the future
+<img align="left" alt="Docker" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
+<img alt="AWS" src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+
 <!--
 <img alt="My Name" src="https://img.shields.io/badge/My%20Name%20-02cf17?style=for-the-badge&logo=Facebook&logoColor=white">
 -->
 
-### Operating system
+### Operating system I have used
 
 <img align="left" alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 <img align="left" alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />

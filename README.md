@@ -20,7 +20,6 @@ Hi, My name is Luu Nguyen Hoang Minh, a passionate self-taught Machine Learning 
 <img align="left" alt="Anaconda" src="https://img.shields.io/badge/Anaconda-02cf17?style=for-the-badge&logo=anaconda&logoColor=white" />
 <img alt="LaTeX" src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/>
 
-<br/>
 <img align="left" alt="Matplotlib" src="https://img.shields.io/badge/matplotlib%20-013485.svg?&style=for-the-badge&logo=Matplotlib&logoColor=white"/>
 <img align="left"  alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/>
 <img align="left" alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" />
@@ -28,7 +27,6 @@ Hi, My name is Luu Nguyen Hoang Minh, a passionate self-taught Machine Learning 
 <img align="left" alt="Pandas" src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
 <img alt="NumPy" src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" />
 
-<br/>
 <img align="left" alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 <img align="left" alt="Vim" src="https://img.shields.io/badge/VIM%20-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white"/>
 <img align="left" alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>

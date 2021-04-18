@@ -32,9 +32,8 @@ Hi, My name is Luu Nguyen Hoang Minh, a passionate self-taught Machine Learning 
 <img align="left" alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
 <img align="left" alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&style=for-the-badge&logo=visual-studio&logoColor=white"/>
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-<br/>
 
-<br/>
+
 <hr>
 
 ### Other Languages I used to learn from school
@@ -45,7 +44,7 @@ Hi, My name is Luu Nguyen Hoang Minh, a passionate self-taught Machine Learning 
 <img align="left" alt="HASKELL" src="https://img.shields.io/badge/haskell-5C2D91.svg?&style=for-the-badge&logo=haskell&logoColor=white"/>
 <img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white"/>
 
-<br/>
+
 <hr>
 
 ### Operating system I have used
@@ -53,7 +52,7 @@ Hi, My name is Luu Nguyen Hoang Minh, a passionate self-taught Machine Learning 
 <img align="left" alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 <img alt="IOS" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white">
 
-<br/>
+
 <hr>
 
 ### Other Technologies I wish to learn in the future
@@ -63,7 +62,7 @@ Hi, My name is Luu Nguyen Hoang Minh, a passionate self-taught Machine Learning 
 <!--
 <img alt="My Name" src="https://img.shields.io/badge/My%20Name%20-02cf17?style=for-the-badge&logo=Facebook&logoColor=white">
 -->
-<br/>
+
 <hr>
 
 ### You can find in me in the web 🌍

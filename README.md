@@ -69,10 +69,10 @@ Hi, My name is Luu Nguyen Hoang Minh, a passionate self-taught Machine Learning 
 
 <h3 align="center">&#x1f4c8; GitHub Stats</h3>
 <p width="100%" align="center">
-  <a href="https://github.com/Minhluu2911/github-readme-stats" title="Go to Source"><img height="125" align="left" src="https://github-readme-stats.vercel.app/api?username=Minhluu2911&show_icons=true&theme=gotham"></a>
+  <a href="https://github.com/Minhluu2911/github-readme-stats" title="Go to Source"><img height="125" width="350" align="left" src="https://github-readme-stats.vercel.app/api?username=Minhluu2911&show_icons=true&theme=gotham"></a>
 
   <a align="right" href="https://github.com/Minhluu2911/github-readme-stats">
-  <img height=125 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minhluu2911&hide=&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=compact" /></a>
+  <img height="125" width="350" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minhluu2911&hide=&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=compact" /></a>
 </p>
 
 
@@ -81,8 +81,8 @@ Hi, My name is Luu Nguyen Hoang Minh, a passionate self-taught Machine Learning 
 
 <h3 align="center">🧰 Repositories</h3>
 <p width="100%" align="center">
-  <a align="left" href="https://github.com/Minhluu2911/Machine_Learning_2_months" title="Machine Learning 2 months"><img align="left" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=Minhluu2911&repo=Machine_Learning_2_months&theme=gotham"></a>
-  <a align="right" href="https://github.com/zumrudu-anka/Managing-Environment-Using-Anaconda" title="Managing-Environment-Using-Anaconda"><img align="right" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=Minhluu2911&repo=Managing-Environment-Using-Anaconda&theme=gotham"></a>
+  <a align="left" href="https://github.com/Minhluu2911/Machine_Learning_2_months" title="Machine Learning 2 months"><img align="left" height="125" width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=Minhluu2911&repo=Machine_Learning_2_months&theme=gotham"></a>
+  <a align="right" href="https://github.com/zumrudu-anka/Managing-Environment-Using-Anaconda" title="Managing-Environment-Using-Anaconda"><img align="right" height="125" width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=Minhluu2911&repo=Managing-Environment-Using-Anaconda&theme=gotham"></a>
 </p>
 
 

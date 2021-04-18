@@ -5,7 +5,6 @@
 Hi, My name is Luu Nguyen Hoang Minh, a passionate self-taught Machine Learning student from Viet Nam.
 
 - 🔭 I’m currently working on [Ho Chi Minh University of Technology](https://edurank.org/uni/ho-chi-minh-city-university-of-technology/)
-- 
 - 💬 Ask me about anything [here](https://github.com/Minhluu2911/Minhluu2911/issues)
 
 

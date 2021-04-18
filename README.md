@@ -1,12 +1,12 @@
-### Hi there, I'm [Robominh!](https://www.facebook.com/minh.luunguyenhoang/) 👋
+### Hi there, I'm [Robominh!](https://github.com/Minhluu2911) :stuck_out_tongue_winking_eye:
 
 
 
 Hi, My name is Luu Nguyen Hoang Minh, a passionate self-taught Machine Learning developer from Viet Nam.
 
 - 🔭 I’m currently working on [Ho Chi Minh University of Technology](https://edurank.org/uni/ho-chi-minh-city-university-of-technology/)
-- 🌱 I’m currently learning Machine Learning
 - 💬 Ask me about anything [here](https://github.com/Minhluu2911/Minhluu2911/issues)
+
 
 
 
@@ -54,21 +54,6 @@ Hi, My name is Luu Nguyen Hoang Minh, a passionate self-taught Machine Learning 
 
 
 
-
-### You can find in me in the web 🌍
-[<img align="left" alt="Facebook" src="https://img.shields.io/badge/Facebook%20-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/>](https://www.facebook.com/minh.luunguyenhoang/)
-
-[<img align="left" alt="Instagram" src="https://img.shields.io/badge/Instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>](https://www.instagram.com/lnhm_2911/)
-<br/>
-
-[<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/minh-l%C6%B0u-nguy%E1%BB%85n-ho%C3%A0ng-b3bab120b/)
-
-[<img align="left" alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/Minhluu2911)
-
-[<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:minh.luu291101@hcmut.edu.vn)
-
-
-
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github*
 
 
@@ -85,5 +70,17 @@ Hi, My name is Luu Nguyen Hoang Minh, a passionate self-taught Machine Learning 
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Minhluu2911&repo=github-readme-stats&theme=material-palenight" />
 </a>    
 
+<br/>
+### You can find in me in the web 🌍
+[<img align="left" alt="Facebook" src="https://img.shields.io/badge/Facebook%20-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/>](https://www.facebook.com/minh.luunguyenhoang/)
+
+[<img align="left" alt="Instagram" src="https://img.shields.io/badge/Instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>](https://www.instagram.com/lnhm_2911/)
+<br/>
+
+[<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/minh-l%C6%B0u-nguy%E1%BB%85n-ho%C3%A0ng-b3bab120b/)
+
+[<img align="left" alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/Minhluu2911)
+
+[<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:minh.luu291101@hcmut.edu.vn)
 
 

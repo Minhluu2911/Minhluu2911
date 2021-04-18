@@ -75,9 +75,9 @@ Hi, My name is Luu Nguyen Hoang Minh, a passionate self-taught Machine Learning 
   <img height=125 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minhluu2911&hide=&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=compact" /></a>
 </p>
 
-<hr>
-<br/><br/><br/><br/>
 
+<br/><br/><br/><br/><br/><br/>
+<hr>
 
 <h3 align="center">🧰 Repositories</h3>
 <p width="100%" align="center">

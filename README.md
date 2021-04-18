@@ -67,7 +67,7 @@ Hi, My name is Luu Nguyen Hoang Minh, a passionate self-taught Machine Learning 
 
 <hr>
 
-### &#x1f4c8; GitHub Stats
+<h3 align="center">&#x1f4c8; GitHub Stats</h3>
 <p width="100%" align="center">
   <a href="https://github.com/Minhluu2911/github-readme-stats" title="Go to Source"><img height="125" align="left" src="https://github-readme-stats.vercel.app/api?username=Minhluu2911&show_icons=true&theme=gotham"></a>
 
@@ -79,7 +79,7 @@ Hi, My name is Luu Nguyen Hoang Minh, a passionate self-taught Machine Learning 
 <br/><br/><br/><br/>
 
 
-<h2 align="center">Repositories</h2>
+<h3 align="center">🧰 Repositories</h3>
 <p width="100%" align="center">
   <a align="left" href="https://github.com/Minhluu2911/Machine_Learning_2_months" title="Machine Learning 2 months"><img align="left" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=Minhluu2911&repo=Machine_Learning_2_months&theme=gotham"></a>
   <a align="right" href="https://github.com/zumrudu-anka/Managing-Environment-Using-Anaconda" title="Managing-Environment-Using-Anaconda"><img align="right" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=Minhluu2911&repo=Managing-Environment-Using-Anaconda&theme=gotham"></a>

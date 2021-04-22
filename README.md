@@ -98,7 +98,7 @@ Hi, My name is Luu Nguyen Hoang Minh, a passionate self-taught Machine Learning 
 
 <h3 align="center">🧰 Repositories</h3>
 <p width="100%" align="center">
-  <a align="left" href="https://github.com/Minhluu2911/Machine_Learning_2_months" title="Machine Learning 2 months"><img align="left" height="125" width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=Minhluu2911&repo=Machine_Learning_2_months&theme=gotham"></a>
+  <a align="left" href="https://github.com/Minhluu2911/BASIC_Machine_Learning_2_months" title="Machine Learning 2 months"><img align="left" height="125" width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=Minhluu2911&repo=BASIC_Machine_Learning_2_months&theme=gotham"></a>
   <a align="right" href="https://github.com/zumrudu-anka/Managing-Environment-Using-Anaconda" title="Managing-Environment-Using-Anaconda"><img align="right" height="125" width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=Minhluu2911&repo=Managing-Environment-Using-Anaconda&theme=gotham"></a>
 </p>
 

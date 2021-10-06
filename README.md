@@ -71,7 +71,7 @@ Hi, My name is Luu Nguyen Hoang Minh, a passionate self-taught Machine Learning 
 [<img align="left" alt="Instagram" src="https://img.shields.io/badge/Instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>](https://www.instagram.com/lnhm_2911/)
 <br/>
 
-[<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/minh-l%C6%B0u-nguy%E1%BB%85n-ho%C3%A0ng-b3bab120b/)
+[<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](www.linkedin.com/in/minhluu291101)
 
 [<img align="left" alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/Minhluu2911)
 
